@@ -16,3 +16,9 @@ cd PBRT
 cd PBRT
 ../tools/premake5/win/premake5.exe ecc
 ```
+
+
+
+# vscode
+
+如果使用vscode，直接开PBRT目录，而不是开上层目录
