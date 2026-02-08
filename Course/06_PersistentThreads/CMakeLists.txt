@@ -1,0 +1,2 @@
+# 06_PersistentThreads course project
+add_course_project(06_PersistentThreads)

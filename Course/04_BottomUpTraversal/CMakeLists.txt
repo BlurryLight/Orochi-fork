@@ -1,0 +1,2 @@
+# 04_BottomUpTraversal course project
+add_course_project(04_BottomUpTraversal)
